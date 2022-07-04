@@ -1,0 +1,33 @@
+h1 {
+     color: rgb(243, 133, 29);
+     text-align: center;
+     border-style:dotted;
+     border-width: 15px;
+     border-color: fuchsia;
+     font-family:sans-serif;
+     
+     
+     
+}
+h2 {
+     text-align: center;
+     border-style: double;
+     border-color:chartreuse;
+     border-radius: 20px;
+     border-width: 10pt;
+     border-block-width: 10px;
+     margin-left: 200px;
+     margin-right: 200px;
+     
+     
+}
+d
+a:link {
+     color: chartreuse;
+}
+a:visited {
+     color: crimson;
+}
+a:hover {
+     color:blueviolet
+}
